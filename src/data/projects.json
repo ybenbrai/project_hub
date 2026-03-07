@@ -1,0 +1,12 @@
+[
+  {
+    "id": "p1",
+    "name": "Smart Finance Tracker",
+    "type": "Finance",
+    "description": "A modern personal finance web app built with React, Vite, Tailwind CSS, and Recharts.",
+    "repoLink": "https://github.com/ybenbrai/finance_tracker",
+    "deployedUrl": "https://ybenbrai.github.io/finance_tracker/",
+    "techStack": ["React", "Vite", "Tailwind"],
+    "status": "Active"
+  }
+]
