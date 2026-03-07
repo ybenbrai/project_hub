@@ -8,5 +8,15 @@
     "deployedUrl": "https://ybenbrai.github.io/finance_tracker/",
     "techStack": ["React", "Vite", "Tailwind"],
     "status": "Active"
+  },
+  {
+    "id": "p2",
+    "name": "Dark Daily Dairy",
+    "type": "Tool",
+    "description": "A dark-themed daily diary web app built with React, Vite, Tailwind CSS, and Recharts.",
+    "repoLink": "https://github.com/ybenbrai/dark_daily_dairy",
+    "deployedUrl": "https://ybenbrai.github.io/dark_daily_dairy/",
+    "techStack": ["React", "Vite", "Tailwind"],
+    "status": "Active"
   }
 ]
